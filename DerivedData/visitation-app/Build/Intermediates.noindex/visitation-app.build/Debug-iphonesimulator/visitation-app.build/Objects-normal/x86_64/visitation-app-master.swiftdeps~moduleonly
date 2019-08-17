@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "8daf3fe16fc3b109780a9b0ce2c0206d"
+build_time: [1565277928, 807806000]
+inputs:
+  "/Users/sethsaps/Desktop/tutorial/visitation-app/visitation-app/LocationManager.swift": [1565277927, 825003075]
+  "/Users/sethsaps/Desktop/tutorial/visitation-app/visitation-app/Collection.swift": [1565203207, 640984488]
+  "/Users/sethsaps/Desktop/tutorial/visitation-app/visitation-app/ViewController.swift": [1565188794, 996645414]
+  "/Users/sethsaps/Desktop/tutorial/visitation-app/visitation-app/Networking.swift": [1565277757, 725469596]
+  "/Users/sethsaps/Desktop/tutorial/visitation-app/visitation-app/AppDelegate.swift": [1565189373, 499373025]

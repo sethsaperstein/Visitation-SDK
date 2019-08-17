@@ -5,6 +5,231 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>03240933-1A36-4D4C-B8FA-5461368FAEA7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>03240933-1A36-4D4C-B8FA-5461368FAEA7.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>visitation-app project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>visitation-app</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean visitation-app</string>
+			<key>timeStartedRecording</key>
+			<real>586882353.96504605</real>
+			<key>timeStoppedRecording</key>
+			<real>586882354.027403</real>
+			<key>title</key>
+			<string>Clean visitation-app</string>
+			<key>uniqueIdentifier</key>
+			<string>03240933-1A36-4D4C-B8FA-5461368FAEA7</string>
+		</dict>
+		<key>3D99DB82-4F58-47BC-81ED-085CA8CE0B9F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3D99DB82-4F58-47BC-81ED-085CA8CE0B9F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>visitation-app project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>visitation-app</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build visitation-app</string>
+			<key>timeStartedRecording</key>
+			<real>586882481.54986501</real>
+			<key>timeStoppedRecording</key>
+			<real>586882481.819031</real>
+			<key>title</key>
+			<string>Build visitation-app</string>
+			<key>uniqueIdentifier</key>
+			<string>3D99DB82-4F58-47BC-81ED-085CA8CE0B9F</string>
+		</dict>
+		<key>54D6C833-2560-47AC-81F6-879830448752</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>54D6C833-2560-47AC-81F6-879830448752.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>visitation-app project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>visitation-app</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build visitation-app</string>
+			<key>timeStartedRecording</key>
+			<real>586882485.01814902</real>
+			<key>timeStoppedRecording</key>
+			<real>586882488.26615095</real>
+			<key>title</key>
+			<string>Build visitation-app</string>
+			<key>uniqueIdentifier</key>
+			<string>54D6C833-2560-47AC-81F6-879830448752</string>
+		</dict>
+		<key>7AEE1A35-C77F-4BC8-A19C-11B3C0B69E9C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7AEE1A35-C77F-4BC8-A19C-11B3C0B69E9C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>visitation-app project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>visitation-app</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean visitation-app</string>
+			<key>timeStartedRecording</key>
+			<real>586900028.070467</real>
+			<key>timeStoppedRecording</key>
+			<real>586900028.15847003</real>
+			<key>title</key>
+			<string>Clean visitation-app</string>
+			<key>uniqueIdentifier</key>
+			<string>7AEE1A35-C77F-4BC8-A19C-11B3C0B69E9C</string>
+		</dict>
+		<key>807A6B98-8178-4B70-BECC-E4F945E75F8C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>807A6B98-8178-4B70-BECC-E4F945E75F8C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>visitation-app project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>visitation-app</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build visitation-app</string>
+			<key>timeStartedRecording</key>
+			<real>586970727.80880702</real>
+			<key>timeStoppedRecording</key>
+			<real>586970733.61852801</real>
+			<key>title</key>
+			<string>Build visitation-app</string>
+			<key>uniqueIdentifier</key>
+			<string>807A6B98-8178-4B70-BECC-E4F945E75F8C</string>
+		</dict>
+		<key>8B2ACC0C-8433-443A-A252-0E8C3327115F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8B2ACC0C-8433-443A-A252-0E8C3327115F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>visitation-app project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>visitation-app</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build visitation-app</string>
+			<key>timeStartedRecording</key>
+			<real>586882362.88388801</real>
+			<key>timeStoppedRecording</key>
+			<real>586882377.87224805</real>
+			<key>title</key>
+			<string>Build visitation-app</string>
+			<key>uniqueIdentifier</key>
+			<string>8B2ACC0C-8433-443A-A252-0E8C3327115F</string>
+		</dict>
+		<key>F5B79875-BD44-4DC6-84BD-D95BACAF351F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5B79875-BD44-4DC6-84BD-D95BACAF351F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>visitation-app project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>visitation-app</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean visitation-app</string>
+			<key>timeStartedRecording</key>
+			<real>586882483.82740104</real>
+			<key>timeStoppedRecording</key>
+			<real>586882483.96652699</real>
+			<key>title</key>
+			<string>Clean visitation-app</string>
+			<key>uniqueIdentifier</key>
+			<string>F5B79875-BD44-4DC6-84BD-D95BACAF351F</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

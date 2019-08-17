@@ -13,6 +13,10 @@
 		2F87CF6022FB1A3B000A8889 /* visitation_app.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2F87CF5E22FB1A3B000A8889 /* visitation_app.xcdatamodeld */; };
 		2F87CF6222FB1A3C000A8889 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F87CF6122FB1A3C000A8889 /* Assets.xcassets */; };
 		2F87CF6522FB1A3C000A8889 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F87CF6322FB1A3C000A8889 /* LaunchScreen.storyboard */; };
+		2F87CF6D22FB1A9B000A8889 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F87CF6C22FB1A9B000A8889 /* LocationManager.swift */; };
+		2F87CF6F22FB1CFE000A8889 /* starbucks-walk.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 2F87CF6E22FB1CFE000A8889 /* starbucks-walk.gpx */; };
+		2F87CF7322FB4F59000A8889 /* Collection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F87CF7222FB4F59000A8889 /* Collection.swift */; };
+		2F87CF7722FC7359000A8889 /* Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F87CF7622FC7359000A8889 /* Networking.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		2F87CF6122FB1A3C000A8889 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F87CF6422FB1A3C000A8889 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F87CF6622FB1A3C000A8889 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F87CF6C22FB1A9B000A8889 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		2F87CF6E22FB1CFE000A8889 /* starbucks-walk.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "starbucks-walk.gpx"; sourceTree = "<group>"; };
+		2F87CF7222FB4F59000A8889 /* Collection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Collection.swift; sourceTree = "<group>"; };
+		2F87CF7622FC7359000A8889 /* Networking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Networking.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +66,14 @@
 			children = (
 				2F87CF5722FB1A3A000A8889 /* AppDelegate.swift */,
 				2F87CF5922FB1A3A000A8889 /* ViewController.swift */,
+				2F87CF7222FB4F59000A8889 /* Collection.swift */,
+				2F87CF6E22FB1CFE000A8889 /* starbucks-walk.gpx */,
 				2F87CF5B22FB1A3B000A8889 /* Main.storyboard */,
 				2F87CF6122FB1A3C000A8889 /* Assets.xcassets */,
 				2F87CF6322FB1A3C000A8889 /* LaunchScreen.storyboard */,
 				2F87CF6622FB1A3C000A8889 /* Info.plist */,
+				2F87CF6C22FB1A9B000A8889 /* LocationManager.swift */,
+				2F87CF7622FC7359000A8889 /* Networking.swift */,
 				2F87CF5E22FB1A3B000A8889 /* visitation_app.xcdatamodeld */,
 			);
 			path = "visitation-app";
@@ -99,6 +111,11 @@
 				TargetAttributes = {
 					2F87CF5322FB1A3A000A8889 = {
 						CreatedOnToolsVersion = 10.2.1;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -126,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F87CF6522FB1A3C000A8889 /* LaunchScreen.storyboard in Resources */,
+				2F87CF6F22FB1CFE000A8889 /* starbucks-walk.gpx in Resources */,
 				2F87CF6222FB1A3C000A8889 /* Assets.xcassets in Resources */,
 				2F87CF5D22FB1A3B000A8889 /* Main.storyboard in Resources */,
 			);
@@ -138,7 +156,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F87CF6D22FB1A9B000A8889 /* LocationManager.swift in Sources */,
+				2F87CF7322FB4F59000A8889 /* Collection.swift in Sources */,
 				2F87CF5A22FB1A3A000A8889 /* ViewController.swift in Sources */,
+				2F87CF7722FC7359000A8889 /* Networking.swift in Sources */,
 				2F87CF5822FB1A3A000A8889 /* AppDelegate.swift in Sources */,
 				2F87CF6022FB1A3B000A8889 /* visitation_app.xcdatamodeld in Sources */,
 			);
